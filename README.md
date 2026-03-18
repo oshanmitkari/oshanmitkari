@@ -1,16 +1,23 @@
-# Hi there 👋, I'm Oshan Mitkari
+<!-- Banner -->
 
-🚀 Aspiring Software Engineer | AI • Fintech • IoT • Mobile Development
+<h1 align="center">Hi 👋, I'm Oshan Mitkari</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | AI • Fintech • IoT • Mobile Dev</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Developer;Flutter+Developer;IoT+Enthusiast;Problem+Solver" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Information Technology (VIT Pune)
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+* 🎓 B.Tech IT @ VIT Pune
 * 📊 CGPA: **9.43 / 10.0**
-* 💡 Passionate about **AI-driven systems, Fintech apps & scalable mobile solutions**
-* 🔭 Currently working on **AI + IoT based smart systems**
-* 🌱 Learning **MERN Stack & Advanced Backend Development**
+* 💡 Passionate about **AI, Fintech & IoT systems**
+* 🔭 Working on **AI + IoT projects**
+* 🌱 Learning **MERN Stack & Backend Systems**
 
 ---
 
@@ -18,90 +25,85 @@
 
 ### 💻 Languages
 
-`Python` `Java` `C++` `Dart` `JavaScript` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js,php" />
+</p>
 
 ### ⚙️ Frameworks & Tools
 
-`Flutter` `Flask` `Android SDK` `Firebase` `Git` `Postman`
-
-### 🌐 Web & Backend
-
-`REST APIs` `JWT Authentication` `HTML` `CSS` `MERN (Learning)`
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,flask,androidstudio,firebase,git,postman" />
+</p>
 
 ### 🧠 AI / ML
 
-`LangChain` `HuggingFace` `OpenCV` `Tesseract OCR` `Generative AI`
-
-### 🗄️ Databases
-
-`MySQL` `MongoDB` `Firebase`
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 📱 Android / Flutter Developer Intern
+📱 **Flutter Developer Intern @ Mountreach Solutions**
 
-**Mountreach Solutions Pvt. Ltd. (June 2024 – Aug 2024)**
-
-* Developed **Fintech & E-commerce apps** using Flutter
-* Implemented **JWT authentication & UPI payment APIs**
-* Integrated **10+ REST APIs with Firebase**
-* Worked in **Agile team of 4–5 developers**
+* Built fintech & e-commerce apps
+* Integrated UPI APIs & JWT authentication
+* Worked with Firebase + REST APIs
 
 ---
 
 ## 🚀 Projects
 
-### 💰 TrustPay – AI-Powered Fintech App
+### 💰 TrustPay
 
-* Secure UPI-style transactions using **Flutter + Flask**
-* Fraud detection: device binding, SIM tracking, geo-checks
-* Firebase-based real-time monitoring
+🔐 AI-powered secure payment system
+⚡ Fraud detection + real-time monitoring
 
-### 🚨 Personal Safety Key – IoT System
+### 🚨 Personal Safety Key
 
-* Emergency system using **GPS, GSM & Flutter**
-* Real-time tracking + SOS alerts
+📍 GPS + GSM emergency alert system
+📲 Flutter-based mobile control
 
-### 🧾 Marathi OCR System
+### 🧾 Marathi OCR
 
-* Built using **Python, OpenCV, Tesseract OCR**
-* Achieved ~85% accuracy for document digitization
+📄 OCR system with ~85% accuracy
+🧠 Built using OpenCV & Tesseract
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 2nd Place – National Techathon 3.0 (₹10,000 prize)
-* 💻 Solved **120+ DSA problems on LeetCode**
-
----
-
-## 📜 Certifications
-
-* Generative AI Content Creation – Adobe & Coursera
-* Generative AI with LangChain & HuggingFace – Udemy
+<p align="center">
+  <img src="https://img.shields.io/badge/Techathon-2nd%20Place-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-120%2B%20Problems-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Oshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshanmitkari\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oshanmitkari&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshanmitkari&theme=radical" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-* 📧 Email: [oshanmitkari@gmail.com](mailto:oshanmitkari@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/oshan-mitkari-75997937b
-* 💻 GitHub: https://github.com/oshanmitkari
-* 🧠 LeetCode: https://leetcode.com/oshan-mitkari
+<p align="center">
+  <a href="mailto:oshanmitkari@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/oshan-mitkari-75997937b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/oshanmitkari"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/oshan-mitkari"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building **real-world impactful systems** combining AI, IoT, and Mobile apps 🚀
+💡 I love building **real-world impactful systems using AI + IoT + Mobile Apps**
 
 ---
